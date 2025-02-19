@@ -15,4 +15,4 @@ docker-compose up -d
 docker-compose run --rm php php compare_csv.php dir1 dir2
 ```
 
-Place your CSV files under `./reports/dir1` and `./reports/dir2`.
+Place your CSV files under `./directories/dir1` and `./directories/dir2`.
