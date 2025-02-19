@@ -1,0 +1,6 @@
+order_id,date,customer_id,product_code,quantity,unit_price,total_amount,status
+ORD-001,2024-01-15,CUST-123,PROD-A1,5,29.99,149.95,completed
+ORD-002,2024-01-15,CUST-456,PROD-B2,2,49.99,99.98,pending
+ORD-003,2024-01-16,CUST-789,PROD-C3,1,199.99,199.99,completed
+ORD-004,2024-01-16,CUST-234,PROD-A1,3,29.99,89.97,cancelled
+ORD-005,2024-01-17,CUST-567,PROD-4,4,75.50,302.00,completed

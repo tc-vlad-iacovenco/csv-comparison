@@ -1,0 +1,10 @@
+services:
+  php:
+    image: "csv_comparison_php"
+    platform: linux/amd64
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    container_name: "CsvComparisonPhp"
+    volumes:
+      - .:/app
